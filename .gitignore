@@ -1,0 +1,8 @@
+build/*
+.gdbinit.ci
+main/.clangd/*
+main/.clangd
+.clangd/*
+.clangd
+build
+sdkconfig.ci
